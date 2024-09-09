@@ -1,5 +1,6 @@
 # GameToken (GT)
-**Verified Contract Address** : [0x06aD8827Ce71639F0FaE85909EfACC333a3EFE68]
+**Verified Contract Address** : 0x06aD8827Ce71639F0FaE85909EfACC333a3EFE68
+**Etherscan link**: https://sepolia.etherscan.io/address/0x06aD8827Ce71639F0FaE85909EfACC333a3EFE68#code
 
 **Use Case**
 Reward System for Gaming Platforms
